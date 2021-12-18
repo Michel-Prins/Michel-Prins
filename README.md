@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/Soeppan"><img src="https://api.daily.dev/devcards/1007402d384a46f48aa3e42202aa5d86.png?r=4y4" width="400" alt="Michel's Dev Card"/></a>
