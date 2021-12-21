@@ -1,3 +1,4 @@
+# King
 ### Hi there 👋
 
 <!--
@@ -15,4 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Daily Dev
 <a href="https://app.daily.dev/Soeppan"><img src="https://github.com/Michel-Prins/Michel-Prins/blob/main/devcard.svg" width="400" alt="Michel's Dev Card"/></a>
