@@ -1,9 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/d9BqB1cZxBfR31Qniz/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/d9BqB1cZxBfR31Qniz/giphy.gif" width="300"/>
+  <h1>
+  Welcome to my profile
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
 # King
-### Hi there 👋
+### Just a hobby
 
 <!--
 **Michel-Prins/Michel-Prins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
